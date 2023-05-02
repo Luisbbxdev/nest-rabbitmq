@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+this is a NestJs monorepo using microservices and rabbitmq
+
 ## Installation
 
 ```bash
